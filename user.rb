@@ -1,6 +1,6 @@
-require '/home/amura/Desktop/practice/taxi_app/person.rb'
+require_relative 'person.rb'
 class User
-  attr_accessor :from_location,:to_location,:travel_fair,:rides
+   attr_accessor :from_location,:to_location,:travel_fair,:rides
    def initialize(name,age,id)
      @rides=[]
      @name=name

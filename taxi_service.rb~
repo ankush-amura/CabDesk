@@ -1,8 +1,8 @@
-require_relative 'person.rb'
-require_relative 'driver.rb'
-require_relative 'user.rb'
-require_relative 'ride.rb'
-require_relative 'handling.rb'
+require '/home/amura/Desktop/practice/taxi_app/person.rb'
+require '/home/amura/Desktop/practice/taxi_app/driver.rb'
+require '/home/amura/Desktop/practice/taxi_app/user.rb'
+require '/home/amura/Desktop/practice/taxi_app/ride.rb'
+require '/home/amura/Desktop/practice/taxi_app/handling.rb'
 
 class TaxiService
    include RideModule
