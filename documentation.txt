@@ -1,0 +1,23 @@
+***********************************CAB BOOKING SYSTEM**********************************
+class Person
+   1.Includes details that are common with users included in the system
+   2.Class is inherited by the 2 entities (Driver , Passenger)
+
+class Driver < Person
+   1.this class includes attributes that define our driver
+   2.the car definations attributes are also included within this class itself
+
+class User < Person
+   1.this class includes attributes related to the user
+   2.class inherits some properties from the person class
+
+class Ride
+   1. this class includes all the attributes that define a ride
+   2. class is used by the taxi_service
+
+class TaxiService
+  1.the main implementation of the system is provided in this class
+  2.this class handles the users and drivers in the system
+  3.all four class files are included within this one class
+
+*****************************************************************************************

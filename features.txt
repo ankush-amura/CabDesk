@@ -1,0 +1,25 @@
+------------------------------- User features ------------------------------
+1.Sign Up
+2.Login
+3.Current Location detection
+4.Dstination Selection
+5.Selection of Taxi Class(Premium or Normal)
+6.Displaying the list of cars near pickup location that can provide service
+7.Selection of the required taxi by the user
+8.calculation of the fare that will be taken from the user
+9.confirmation from the user
+10.select payment method(  Pay On Arrival , Pay immediately )
+11.Pick up request Confirmed
+12.Providin the estimated time of reach to the destination
+13.Cancel booking within certain amount of time (approx 10 min can be kept)
+-----------------------------------------------------------------------------
+
+-------------------------------- Driver Features ----------------------------
+1.Driver Login
+2.Update Its Own Location If not being tracked
+3.Driver Should Be informed about pickups and there timing
+4.Driver Should Be able to cancel pickups in case of emmergency
+5.Driver Should Be able to look at his daily drives and earnings
+6.Driver Should be able to update the pickup timings and the user should be informed automatically
+7.once the update of pickup timing has taken place then suer should be given permission to cancel the pickup
+------------------------------------------------------------------------------
